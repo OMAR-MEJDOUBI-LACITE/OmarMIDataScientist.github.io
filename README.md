@@ -1,31 +1,24 @@
-# Projets **Omar Mejdoubi** :
+# 🚀 Portfolio Data Science - Projets Académiques
 
+## 👤 Auteur
 
-Machine Learning
-✅ Prétraitement avancé des données
+**Omar Mejdoubi**  
+Étudiant en Data Science - LACITE 2025-2026  
 
-✅ Gestion du déséquilibre de classes
+---
 
-✅ Feature engineering
+## 📊 Aperçu des Projets
+Ce repository contient 3 projets majeurs démontrant mes compétences en Data Science, Machine Learning et Big Data :
 
-✅ Évaluation rigoureuse des modèles
+### 🔍 **[Projet 1](#-projet-1-détection-de-fraude-par-carte-bancaire)** - Détection de Fraude
+*Machine Learning • Prétraitement • Déséquilibre de classes*
 
-✅ Optimisation des hyperparamètres
+### ⚡ **[Projet 2](#-projet-2-analyse-de-données-massives-avec-spark)** - Big Data avec Spark  
+*Apache Spark • RDD • DataFrames • Analyse Exploratoire*
 
-Big Data
-✅ Manipulation de RDD et DataFrames Spark
+### 🎨 **[Projet 3](#-projet-3-application-interactive-de-visualisation)** - Application Interactive  
+*Streamlit • Dashboard • Visualisation • Déploiement*
 
-✅ Traitement distribué
+---
 
-✅ Analyse à grande échelle
-
-✅ Optimisation des performances Spark
-
-Développement & Visualisation
-✅ Création d'interfaces utilisateur
-
-✅ Visualisation interactive
-
-✅ Déploiement d'applications web
-
-✅ Gestion de projet complète
+## 📁 Structure du Repository
